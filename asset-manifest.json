@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%3Crepository-name%3E/static/css/main.155898d8.css",
-    "main.js": "/%3Crepository-name%3E/static/js/main.4fbea73d.js",
-    "static/js/488.b5a9a8e5.chunk.js": "/%3Crepository-name%3E/static/js/488.b5a9a8e5.chunk.js",
-    "index.html": "/%3Crepository-name%3E/index.html",
-    "main.155898d8.css.map": "/%3Crepository-name%3E/static/css/main.155898d8.css.map",
-    "main.4fbea73d.js.map": "/%3Crepository-name%3E/static/js/main.4fbea73d.js.map",
-    "488.b5a9a8e5.chunk.js.map": "/%3Crepository-name%3E/static/js/488.b5a9a8e5.chunk.js.map"
+    "main.css": "/post-reply-assignment/static/css/main.155898d8.css",
+    "main.js": "/post-reply-assignment/static/js/main.b2880aae.js",
+    "static/js/488.b5a9a8e5.chunk.js": "/post-reply-assignment/static/js/488.b5a9a8e5.chunk.js",
+    "index.html": "/post-reply-assignment/index.html",
+    "main.155898d8.css.map": "/post-reply-assignment/static/css/main.155898d8.css.map",
+    "main.b2880aae.js.map": "/post-reply-assignment/static/js/main.b2880aae.js.map",
+    "488.b5a9a8e5.chunk.js.map": "/post-reply-assignment/static/js/488.b5a9a8e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.155898d8.css",
-    "static/js/main.4fbea73d.js"
+    "static/js/main.b2880aae.js"
   ]
 }
