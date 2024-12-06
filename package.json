@@ -2,7 +2,7 @@
   "name": "reddit-thread-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ShreyTanna29.github.io/<repository-name>",
+  "homepage": "https://ShreyTanna29.github.io/post-reply-assignment",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
